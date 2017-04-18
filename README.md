@@ -4,7 +4,7 @@ The Bus Rapid Transit Planning Guide is the most comprehensive resource for
 planning a bus rapid transit (BRT) system, beginning with project preparation
 all the way through to implementation. ESTOU TESTANDO UMA ALTERAÇÃO ATAVÉS DO LAPIS
 
-It is a huge effort by the Institute of Transportation and Development Policy
+It is a huge effort by the Institute of Transportation and Development Policy ESTA É A SEGUNDA EDIÇÃO COM O LAPIS
 (ITDP), and dozens of authors and reviewers.
 
 This project aims to make the guide more accessible and keep it up-to-date:
