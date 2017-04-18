@@ -1,4 +1,4 @@
-# Copyright and license
+# Copyright and license - TERCEIRA EDIÇÃO COM LAPIS
 
 The Online BRT Planning Guide is an effort by the Institute for Transportation
 and Development Policy (ITDP).
